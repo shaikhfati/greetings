@@ -29,7 +29,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2022 Fatima Shaikh<fatima@qmed.ngo>
+2022 Fatima Shaikh <fatima@qmed.ngo>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software

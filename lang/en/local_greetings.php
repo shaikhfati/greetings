@@ -19,7 +19,7 @@
  *
  * @package     local_greetings
  * @category    string
- * @copyright   2022 Fatima Shaikh<fatima@qmed.ngo>
+ * @copyright   2022 Fatima Shaikh <fatima@qmed.ngo>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
